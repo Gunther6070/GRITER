@@ -18,6 +18,8 @@ vid_files = glob(
 img_files = glob(
     'X:/GRIT/Nepheline/600um-800um/Photos/0. z19.0  z61.3/*.NEF')
 
+# ar ar ar
+
 glint_means_prev = []
 glint_means_prev = np.array(glint_means_prev)
 
